@@ -30,7 +30,7 @@
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="assets/band_cover.jpg" width="300" alt="Rear-View (Acoustic Sessions) Cover" />
+  <img src="Album%20Cover/Rear-View%20%5BFront%5D.jpg" width="300" alt="Rear-View (Acoustic Sessions) Cover" />
 </p>
 
 ### 📖 About the Album
@@ -44,6 +44,14 @@
 - [**04. 6th September**](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/04%206th%20September.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/04%206th%20September.flac?download=true)
 - [**05. Shokarto Upokul**](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/05%20Shokarto%20Upokul.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/05%20Shokarto%20Upokul.flac?download=true)
 - [**06. Awdrishsho**](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/06%20Awdrishsho.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/06%20Awdrishsho.flac?download=true)
+
+---
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Album%20Cover/Rear-View%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Album%20Cover/folder.jpg" width="300" alt="2. Cover Art" /><br><sub><b>2. Cover Art</b></sub> |
 
 ---
 
