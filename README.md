@@ -14,6 +14,18 @@
 - **Artist:** Jon Kabir
 - **Type:** Solo Acoustic / Unplugged (Black Classics)
 
+## 📑 Discography Index
+
+1. [Studio Album](#1-studio-album)
+
+### 💿 Mixed Albums
+2. [Jewel With The Stars (2006)](#2-jewel-with-the-stars-2006)
+
+---
+
+<a id="1-studio-album"></a>
+## 1. Studio Album
+
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**01 35**](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/01%2035.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/01%2035.flac?download=true)
@@ -22,6 +34,16 @@
 - [**04 6th September**](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/04%206th%20September.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/04%206th%20September.flac?download=true)
 - [**05 Shokarto Upokul**](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/05%20Shokarto%20Upokul.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/05%20Shokarto%20Upokul.flac?download=true)
 - [**06 Awdrishsho**](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/06%20Awdrishsho.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/06%20Awdrishsho.flac?download=true)
+
+---
+
+<a id="2-jewel-with-the-stars-2006"></a>
+## 2. [Jewel With The Stars (2006)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Jewel%20With%20The%20Stars%20%282006%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Jon Kabir - Jibon**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/01.%20Jibon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/01.%20Jibon.flac?download=true)
+- [**Jon Kabir - Ek**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/07.%20Ek.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/07.%20Ek.flac?download=true)
 
 ---
 
@@ -38,4 +60,3 @@ All audio tracks in this repository are managed via **Git LFS** (Large File Stor
 
 ### 🙏 Special Thanks & Gratitude
 Heartfelt gratitude to **Shohail Ibne Mahbub (XTR)** for his monumental passion and dedication in keeping Bangladeshi band music alive. Through his archival project [**Bangla CD Covers**](https://banglacdcovers.blogspot.com/), he has painstakingly collected, preserved, and scanned original physical CDs and cassette tapes, ensuring that the legacy, artwork, and history of Bangladesh's rock and band movement remain preserved for generations of music lovers.
-
