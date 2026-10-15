@@ -1,6 +1,6 @@
 # 🎸 Jon Kabir
 
-[![← Back to BD Band Music](https://img.shields.io/badge/←%20Back%20to-BD%20Band%20Music-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GhostDog45/BD-Band-Music) [![Audio Format - Lossless Audio](https://img.shields.io/badge/Audio%20Format-Lossless%20Audio-007ec6?style=for-the-badge&logo=flac&logoColor=white)](#) [![Git LFS - Enabled](https://img.shields.io/badge/Git%20LFS-Enabled-f05032?style=for-the-badge&logo=git-lfs&logoColor=white)](#) [![Direct One-Tap Downloads](https://img.shields.io/badge/Direct%20Downloads-One--Tap%20Audio-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#)
+[![← Back to BD Band Music](https://img.shields.io/badge/←%20Back%20to-BD%20Band%20Music-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BD-Band-Archive/BD-Band-Music) [![Audio Format - Lossless Audio](https://img.shields.io/badge/Audio%20Format-Lossless%20Audio-007ec6?style=for-the-badge&logo=flac&logoColor=white)](#) [![Git LFS - Enabled](https://img.shields.io/badge/Git%20LFS-Enabled-f05032?style=for-the-badge&logo=git-lfs&logoColor=white)](#) [![Direct One-Tap Downloads](https://img.shields.io/badge/Direct%20Downloads-One--Tap%20Audio-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#)
 
 <p align="center">
   <img src="assets/band_cover.jpg" alt="Jon Kabir" width="750" />
@@ -38,12 +38,12 @@
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**01. 35**](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/01%2035.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/01%2035.flac?download=true)
-- [**02. Onukkhon**](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/02%20Onukkhon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/02%20Onukkhon.flac?download=true)
-- [**03. Utshober Por**](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/03%20Utshober%20Por.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/03%20Utshober%20Por.flac?download=true)
-- [**04. 6th September**](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/04%206th%20September.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/04%206th%20September.flac?download=true)
-- [**05. Shokarto Upokul**](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/05%20Shokarto%20Upokul.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/05%20Shokarto%20Upokul.flac?download=true)
-- [**06. Awdrishsho**](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/06%20Awdrishsho.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/06%20Awdrishsho.flac?download=true)
+- [**01. 35**](https://media.githubusercontent.com/media/BD-Band-Archive/Jon-Kabir/master/01%2035.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Jon-Kabir/master/01%2035.flac?download=true)
+- [**02. Onukkhon**](https://media.githubusercontent.com/media/BD-Band-Archive/Jon-Kabir/master/02%20Onukkhon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Jon-Kabir/master/02%20Onukkhon.flac?download=true)
+- [**03. Utshober Por**](https://media.githubusercontent.com/media/BD-Band-Archive/Jon-Kabir/master/03%20Utshober%20Por.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Jon-Kabir/master/03%20Utshober%20Por.flac?download=true)
+- [**04. 6th September**](https://media.githubusercontent.com/media/BD-Band-Archive/Jon-Kabir/master/04%206th%20September.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Jon-Kabir/master/04%206th%20September.flac?download=true)
+- [**05. Shokarto Upokul**](https://media.githubusercontent.com/media/BD-Band-Archive/Jon-Kabir/master/05%20Shokarto%20Upokul.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Jon-Kabir/master/05%20Shokarto%20Upokul.flac?download=true)
+- [**06. Awdrishsho**](https://media.githubusercontent.com/media/BD-Band-Archive/Jon-Kabir/master/06%20Awdrishsho.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Jon-Kabir/master/06%20Awdrishsho.flac?download=true)
 
 ---
 
@@ -56,7 +56,7 @@
 ---
 
 <a id="2-jewel-with-the-stars-2006"></a>
-## 2. [Jewel With The Stars (2006)](https://github.com/GhostDog45/Mixed-Albums#jewel-with-the-stars-2006)
+## 2. [Jewel With The Stars (2006)](https://github.com/BD-Band-Archive/Mixed-Albums#jewel-with-the-stars-2006)
 
 - **Album:** Jewel With The Stars
 - **Release Year:** 2006
@@ -67,8 +67,8 @@
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Jon Kabir - Jibon**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/01.%20Jibon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/01.%20Jibon.flac?download=true)
-- [**Jon Kabir - Ek**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/07.%20Ek.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/07.%20Ek.flac?download=true)
+- [**Jon Kabir - Jibon**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/01.%20Jibon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/01.%20Jibon.flac?download=true)
+- [**Jon Kabir - Ek**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/07.%20Ek.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Jewel%20With%20The%20Stars%20%282006%29/07.%20Ek.flac?download=true)
 
 ---
 
@@ -78,7 +78,7 @@ All audio tracks in this repository are managed via **Git LFS** (Large File Stor
 - **To clone locally with all audio files:**
   ```bash
   git lfs install
-  git clone https://github.com/GhostDog45/Jon-Kabir.git
+  git clone https://github.com/BD-Band-Archive/Jon-Kabir.git
   ```
 
 ---
