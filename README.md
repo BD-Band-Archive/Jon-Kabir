@@ -56,7 +56,7 @@
 ---
 
 <a id="2-jewel-with-the-stars-2006"></a>
-## 2. [Jewel With The Stars (2006)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Jewel%20With%20The%20Stars%20%282006%29)
+## 2. [Jewel With The Stars (2006)](https://github.com/GhostDog45/Mixed-Albums#jewel-with-the-stars-2006)
 
 - **Album:** Jewel With The Stars
 - **Release Year:** 2006
