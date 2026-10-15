@@ -51,7 +51,7 @@
 
 | | |
 | :---: | :---: |
-| <img src="Album%20Cover/Rear-View%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Album%20Cover/folder.jpg" width="300" alt="2. Cover Art" /><br><sub><b>2. Cover Art</b></sub> |
+| <img src="Album%20Cover/Rear-View%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
