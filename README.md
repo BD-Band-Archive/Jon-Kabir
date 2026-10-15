@@ -8,6 +8,12 @@
 
 ---
 
+## Rear-View (Acoustic Sessions) (2016)
+
+- **Release Year:** 2016
+- **Artist:** Jon Kabir
+- **Type:** Solo Acoustic / Unplugged (Black Classics)
+
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**01 35**](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/01%2035.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Jon-Kabir/master/01%2035.flac?download=true)
