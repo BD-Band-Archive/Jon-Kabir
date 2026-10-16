@@ -53,6 +53,12 @@
 | :---: | :---: |
 | <img src="Album%20Cover/Rear-View%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Bangla Flac Preservation Community
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="2-jewel-with-the-stars-2006"></a>
