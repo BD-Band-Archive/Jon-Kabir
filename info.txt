@@ -1,0 +1,25 @@
+Album Name: Jon Kabir
+Album Type: Solo
+Release Year: 2020
+Genre: Alternative Rock/Singer-Songwriters
+Total Songs: 6
+Track List:
+01. 35
+02. Onukkhon
+03. Utshober Por
+04. 6th September
+05. Shokarto Upokul
+06. Awdrishsho
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 1 360 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Writing library                          : Lavf60.15.100
